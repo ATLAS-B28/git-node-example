@@ -1,0 +1,1 @@
+Creating and updating a file using appendFileCreating and updating a file using appendFile this is part of the R/W functionality of Node
