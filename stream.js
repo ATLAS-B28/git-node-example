@@ -10,4 +10,12 @@ const ws = fs.createWriteStream("./files/newsample3.txt")
 /*rs.on('data',(data)=>{
     ws.write(data)
 })*/
+
+
+
+
+
 rs.pipe(ws)
+
+
+
