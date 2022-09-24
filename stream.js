@@ -15,7 +15,20 @@ const ws = fs.createWriteStream("./files/newsample3.txt")
 
 
 
+
+
+
+
+
+
+
 rs.pipe(ws)
+
+///kdrowefwgdb  v
+
+
+
+
 
 
 
